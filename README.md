@@ -145,13 +145,7 @@ bookstore-analytics/
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=akashsinghrajput-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsinghrajput-18&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=akashsinghrajput-18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
