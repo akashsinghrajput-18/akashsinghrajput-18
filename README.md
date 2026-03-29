@@ -49,7 +49,7 @@ akash = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_Dev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-> 🤝 **Soft Skills:** Communication · Team Management · Data Visualization · Data Cleaning
+> 🤝 **Soft Skills:** Communication · Team Management · Publication Relation
 
 ---
 
@@ -137,17 +137,6 @@ bookstore-analytics/
 - 📅 Monthly revenue trend tracking
 
 **🛠️ Tools:** `MySQL` `SQL` `MySQL Workbench`
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashsinghrajput-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-
-</div>
 
 ---
 
