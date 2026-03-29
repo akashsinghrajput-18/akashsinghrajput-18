@@ -27,8 +27,6 @@ akash = {
 }
 ```
 
-> 💡 *"I don't just analyze data — I extract the story hidden inside it."*
-
 ---
 
 ## 🛠️ Tech Stack & Skills
