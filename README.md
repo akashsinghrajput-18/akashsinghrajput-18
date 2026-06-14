@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9AF7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+Enthusiast;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9AF7&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
