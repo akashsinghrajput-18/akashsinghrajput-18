@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/26328115/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akash%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20B.Tech%20IT%20%7C%20Class%20of%202027&descAlignY=60&descSize=18&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akash%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20B.Tech%20IT%20%7C%202027&descAlignY=60&descSize=18&descColor=a8d8ea" width="100%"/>
 
 </div>
 
